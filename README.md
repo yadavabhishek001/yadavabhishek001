@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Yadav
 
-<!--
-**yadavabhishek001/yadavabhishek001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring AI/ML Engineer** | 💻 **Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔢 Solving **Data Structures & Algorithms** problems on **LeetCode**
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- 📊 Interested in **Python, Statistics, and Data Science**
+- 🚀 Consistently improving problem-solving and coding skills
+
+---
+
+## 🧠 What I'm Currently Doing
+- ✅ Daily LeetCode practice (Arrays, Strings, Recursion, Stack, etc.)
+- 📘 Learning:
+  - Python for ML
+  - NumPy, Pandas
+  - Machine Learning basics
+  - Probability & Statistics
+
+---
+
+## 🧩 LeetCode Progress
+- 🔗 LeetCode Profile: https://leetcode.com/your-username/
+- 🏆 Focus:
+  - Easy → Medium problems
+  - Clean & optimized solutions
+  - Explanation in comments
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Java (Basics)
+- **ML Tools:** NumPy, Pandas, Matplotlib
+- **Concepts:** DSA, OOP, Probability, ML Fundamentals
+
+---
+
+## 📂 Repositories
+- 📌 `leetcode-solutions` → DSA problems with explanations
+- 📌 `ml-learning` → Machine learning practice notebooks
+- 📌 `python-basics` → Core Python programs
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/your-username
+- 🔗 LeetCode: https://leetcode.com/your-username/
+
+⭐ *Learning every day and building strong fundamentals!*
