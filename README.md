@@ -23,7 +23,7 @@
 ---
 
 ## 🧩 LeetCode Progress
-- 🔗 LeetCode Profile: https://leetcode.com/your-username/
+- 🔗 LeetCode Profile: https://leetcode.com/u/abhishekyadav_01n/
 - 🏆 Focus:
   - Easy → Medium problems
   - Clean & optimized solutions
@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/your-username
-- 🔗 LeetCode: https://leetcode.com/your-username/
+- 💼 GitHub: 
+- 🔗 LeetCode: https://leetcode.com/u/abhishekyadav_01n/
 
 ⭐ *Learning every day and building strong fundamentals!*
