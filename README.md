@@ -45,7 +45,7 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav_01n?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav_01n?theme=dark)
 
 ---
 
