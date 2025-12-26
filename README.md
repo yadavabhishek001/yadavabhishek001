@@ -43,12 +43,9 @@
 - 📌 `ml-learning` → Machine learning practice notebooks
 - 📌 `python-basics` → Core Python programs
 
-## 📊 GitHub Stats
+## 🧩 LeetCode Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavabhishek001&layout=compact&theme=tokyonight)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/yadavabhishek001?theme=dark&font=Karma)
 
 ---
 
