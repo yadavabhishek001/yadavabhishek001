@@ -45,7 +45,7 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yadavabhishek001?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcode.com/u/abhishekyadav_01n?theme=dark&font=Karma)
 
 ---
 
