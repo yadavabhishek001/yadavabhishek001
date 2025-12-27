@@ -47,6 +47,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav_01n?theme=dark)
 
+## 🧩 CodeForces Stats
+
+![Codeforces Stats](https://codeforces-stats.vercel.app/api?username=abhishekyadav001&theme=dark)
+
 ---
 
 ## 📫 Connect With Me
