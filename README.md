@@ -49,7 +49,7 @@
 
 ## 🧩 CodeForces Stats
 
-![Codeforces Stats](https://codeforces-stats.vercel.app/api?username=abhishekyadav001&theme=dark)
+![Codeforces Stats](https://codeforces-stats.vercel.app/api?username=abhishekyadav001)
 
 ---
 
