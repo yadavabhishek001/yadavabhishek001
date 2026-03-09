@@ -23,6 +23,7 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,6 +53,7 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 |----------|------------|-------------|
 | Java | ⭐⭐⭐⭐⭐ | Advanced |
 | Python | ⭐⭐⭐⭐ | Intermediate |
+| C++ | ⭐⭐⭐⭐ | Intermediate |
 
 ### Other Skills
 - **Version Control**: Git, GitHub, Branching Strategies
@@ -63,28 +65,50 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 
 ## 🏆 Competitive Programming
 
-### Codeforces
-- **Profile**: [yadavabhishek001](https://codeforces.com/profile/yadavabhishek001)
-- **Rating**: Consistently solving problems across difficulty levels
-- **Focus**: Practicing DSA, optimization, and problem-solving strategies
+### 🔗 Codeforces
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f1c3f?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yadavabhishek001)
 
-### LeetCode
-- **Profile**: [yadavabhishek001](https://leetcode.com/yadavabhishek001/)
-- **Problems Solved**: Actively solving algorithmic challenges
-- **Topics**: Arrays, Strings, Trees, Dynamic Programming, Graph Theory
+- **Profile**: [yadavabhishek001](https://codeforces.com/profile/yadavabhishek001)
+- **Focus**: Solving competitive programming problems, improving rating, and mastering algorithmic paradigms
+- **Latest Activity**: Actively solving problems across all difficulty levels
+
+### 🔗 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhishekyadav_01n/)
+
+- **Profile**: [abhishekyadav_01n](https://leetcode.com/u/abhishekyadav_01n/)
+- **Focus**: Solving DSA problems, interview preparation, and algorithmic challenges
+- **Topics**: Arrays, Strings, Trees, Dynamic Programming, Graph Theory, Binary Search
+
+### Stats at a Glance
+| Platform | Profile Link | Activity |
+|----------|--------------|----------|
+| **Codeforces** | [Visit Profile](https://codeforces.com/profile/yadavabhishek001) | Regular problem solver |
+| **LeetCode** | [Visit Profile](https://leetcode.com/u/abhishekyadav_01n/) | Active contributor |
 
 ---
 
 ## 📁 Featured Projects
 
-### Data Structures & Algorithms
-A comprehensive collection of well-documented implementations of fundamental data structures and classical algorithms.
+### 🎯 Data Structures & Algorithms
+A comprehensive collection of well-documented implementations of fundamental data structures and classical algorithms, optimized for competitive programming and interview preparation.
 
-### Competitive Programming Solutions
-Solutions to problems from Codeforces, LeetCode, and other online judges with detailed explanations.
+- Core implementations: Linked Lists, Trees (BST, AVL, Segment Trees), Graphs, Hash Tables
+- Algorithm patterns: DP, Greedy, Backtracking, DFS/BFS
+- Performance analysis and optimization techniques
 
-### Machine Learning Playground
+### 💻 Competitive Programming Solutions
+Solutions to problems from Codeforces, LeetCode, and other online judges with detailed explanations and multiple approaches.
+
+- Problem categorization by difficulty and topic
+- Multiple solution approaches with complexity analysis
+- Test cases and edge case handling
+
+### 🤖 Machine Learning Playground
 Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classification, regression, and clustering tasks.
+
+- Dataset preprocessing and feature engineering
+- Model training and evaluation
+- Visualization and interpretation of results
 
 ---
 
@@ -92,8 +116,10 @@ Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classifi
 
 <div align="center">
 
+### GitHub Contribution Stats
 [![yadavabhishek001's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavabhishek001&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/yadavabhishek001)
 
+### Top Languages Used
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavabhishek001&theme=dark&layout=compact&hide_border=true)](https://github.com/yadavabhishek001)
 
 </div>
@@ -118,6 +144,7 @@ Currently exploring:
 - 🌐 Full-Stack Web Development
 - ☁️ Cloud Computing (AWS, GCP)
 - 📦 Microservices Architecture
+- 🚀 System Design & Architecture
 
 ---
 
@@ -127,7 +154,7 @@ I'm always open to collaborating on interesting projects, discussing algorithms,
 
 - **GitHub**: [@yadavabhishek001](https://github.com/yadavabhishek001)
 - **Codeforces**: [yadavabhishek001](https://codeforces.com/profile/yadavabhishek001)
-- **LeetCode**: [yadavabhishek001](https://leetcode.com/yadavabhishek001/)
+- **LeetCode**: [abhishekyadav_01n](https://leetcode.com/u/abhishekyadav_01n/)
 
 ---
 
@@ -137,12 +164,22 @@ I'm always open to collaborating on interesting projects, discussing algorithms,
 - 📖 Always learning new concepts and best practices
 - 🎯 Passionate about clean code and optimization
 - 🚀 Believer in continuous improvement and growth mindset
+- 🧠 Dedicated to mastering Data Structures & Algorithms
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐ Feel free to explore my repositories and don't hesitate to reach out!
+### 📊 Competitive Programming Profiles Status
+
+![Codeforces Status](https://img.shields.io/badge/Codeforces-Active-brightgreen?style=flat-square)
+![LeetCode Status](https://img.shields.io/badge/LeetCode-Active-brightgreen?style=flat-square)
+
+---
+
+### Thanks for visiting! ⭐ 
+
+Feel free to explore my repositories, check out my competitive programming profiles, and don't hesitate to reach out for collaborations or discussions!
 
 *Last updated: 2026-03-09*
 
