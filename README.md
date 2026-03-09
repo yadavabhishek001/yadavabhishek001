@@ -27,22 +27,34 @@ I'm passionate about solving complex algorithmic problems and mastering data str
 
 ## 🏆 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhishekyadav001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhishekyadav_01n/)
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 Competitive Programming Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhishekyadav001&theme=dark)](https://codeforces.com/profile/abhishekyadav001)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadavabhishek001&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yadavabhishek001&theme=dark&hide_border=true&layout=compact)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav001)](https://leetcode.com/u/abhishekyadav_01n/)
 
 </div>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadavabhishek001&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yadavabhishek001&layout=compact&theme=tokyonight)
 
 ---
 
