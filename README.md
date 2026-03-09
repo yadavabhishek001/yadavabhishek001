@@ -30,7 +30,6 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -71,6 +70,7 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 - **Profile**: [yadavabhishek001](https://codeforces.com/profile/yadavabhishek001)
 - **Focus**: Solving competitive programming problems, improving rating, and mastering algorithmic paradigms
 - **Latest Activity**: Actively solving problems across all difficulty levels
+- **Specialization**: Problem-solving, algorithmic thinking, optimization
 
 ### 🔗 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhishekyadav_01n/)
@@ -78,6 +78,7 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 - **Profile**: [abhishekyadav_01n](https://leetcode.com/u/abhishekyadav_01n/)
 - **Focus**: Solving DSA problems, interview preparation, and algorithmic challenges
 - **Topics**: Arrays, Strings, Trees, Dynamic Programming, Graph Theory, Binary Search
+- **Goal**: Mastering problem-solving for interviews and competitions
 
 ### Stats at a Glance
 | Platform | Profile Link | Activity |
@@ -92,16 +93,18 @@ I'm an enthusiastic programmer with a strong foundation in **algorithms and data
 ### 🎯 Data Structures & Algorithms
 A comprehensive collection of well-documented implementations of fundamental data structures and classical algorithms, optimized for competitive programming and interview preparation.
 
-- Core implementations: Linked Lists, Trees (BST, AVL, Segment Trees), Graphs, Hash Tables
-- Algorithm patterns: DP, Greedy, Backtracking, DFS/BFS
-- Performance analysis and optimization techniques
+- **Core implementations**: Linked Lists, Trees (BST, AVL, Segment Trees), Graphs, Hash Tables
+- **Algorithm patterns**: DP, Greedy, Backtracking, DFS/BFS
+- **Performance analysis** and optimization techniques
+- **[View Repository](https://github.com/yadavabhishek001)**
 
 ### 💻 Competitive Programming Solutions
 Solutions to problems from Codeforces, LeetCode, and other online judges with detailed explanations and multiple approaches.
 
-- Problem categorization by difficulty and topic
-- Multiple solution approaches with complexity analysis
-- Test cases and edge case handling
+- **Problem categorization** by difficulty and topic
+- **Multiple solution approaches** with complexity analysis
+- **Test cases** and edge case handling
+- **[Codeforces Solutions](https://github.com/yadavabhishek001/Codeforces_Solutions)**
 
 ### 🤖 Machine Learning Playground
 Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classification, regression, and clustering tasks.
@@ -116,11 +119,19 @@ Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classifi
 
 <div align="center">
 
-### GitHub Contribution Stats
-[![yadavabhishek001's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavabhishek001&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/yadavabhishek001)
+### 📊 Overall Activity
 
-### Top Languages Used
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavabhishek001&theme=dark&layout=compact&hide_border=true)](https://github.com/yadavabhishek001)
+![GitHub Stats](https://github-readme-stats-git-main-yadavabhishek001.vercel.app/api?username=yadavabhishek001&theme=dark&show_icons=true)
+
+</div>
+
+<div align="center">
+
+### 💻 Languages Distribution
+
+| Java | Python | C++ | JavaScript | Shell |
+|------|--------|-----|-----------|-------|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -130,7 +141,7 @@ Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classifi
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavabhishek001&theme=dark&hide_border=true)](https://github.com/yadavabhishek001)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavabhishek001&theme=dark)
 
 </div>
 
@@ -139,12 +150,12 @@ Exploring ML fundamentals with Python, TensorFlow, and Scikit-learn for classifi
 ## 📚 Learning & Growth
 
 Currently exploring:
-- 🔍 Advanced Graph Algorithms & Data Structures
-- 🎓 Machine Learning & Deep Learning
-- 🌐 Full-Stack Web Development
-- ☁️ Cloud Computing (AWS, GCP)
-- 📦 Microservices Architecture
-- 🚀 System Design & Architecture
+- 🔍 **Advanced Graph Algorithms** - Advanced tree structures, graph algorithms, and optimization techniques
+- 🎓 **Machine Learning & Deep Learning** - Neural networks, computer vision, NLP
+- 🌐 **Full-Stack Web Development** - Frontend and backend technologies
+- ☁️ **Cloud Computing** - AWS, GCP, deployment and scalability
+- 📦 **Microservices Architecture** - Building distributed systems
+- 🚀 **System Design** - Large-scale systems and architecture patterns
 
 ---
 
@@ -152,9 +163,13 @@ Currently exploring:
 
 I'm always open to collaborating on interesting projects, discussing algorithms, or just connecting with fellow developers!
 
-- **GitHub**: [@yadavabhishek001](https://github.com/yadavabhishek001)
-- **Codeforces**: [yadavabhishek001](https://codeforces.com/profile/yadavabhishek001)
-- **LeetCode**: [abhishekyadav_01n](https://leetcode.com/u/abhishekyadav_01n/)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yadavabhishek001)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f1c3f?style=flat-square&logo=codeforces)](https://codeforces.com/profile/yadavabhishek001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/abhishekyadav_01n/)
+
+</div>
 
 ---
 
@@ -165,21 +180,25 @@ I'm always open to collaborating on interesting projects, discussing algorithms,
 - 🎯 Passionate about clean code and optimization
 - 🚀 Believer in continuous improvement and growth mindset
 - 🧠 Dedicated to mastering Data Structures & Algorithms
+- 💪 Always up for coding challenges and competitions
+
+---
+
+## 📞 Quick Links
+
+- 📝 **My Repositories**: [GitHub Profile](https://github.com/yadavabhishek001)
+- 🏆 **Competitive Programming**: [Codeforces](https://codeforces.com/profile/yadavabhishek001) • [LeetCode](https://leetcode.com/u/abhishekyadav_01n/)
+- 💡 **Problem Solutions**: [View on GitHub](https://github.com/yadavabhishek001)
 
 ---
 
 <div align="center">
 
-### 📊 Competitive Programming Profiles Status
-
-![Codeforces Status](https://img.shields.io/badge/Codeforces-Active-brightgreen?style=flat-square)
-![LeetCode Status](https://img.shields.io/badge/LeetCode-Active-brightgreen?style=flat-square)
-
----
-
 ### Thanks for visiting! ⭐ 
 
 Feel free to explore my repositories, check out my competitive programming profiles, and don't hesitate to reach out for collaborations or discussions!
+
+**Let's code, learn, and grow together!** 🚀
 
 *Last updated: 2026-03-09*
 
