@@ -1,8 +1,12 @@
 # 👋 Hi there, I'm Abhishek Yadav!
 
-Competitive Programmer | Computer Science Student | Problem Solver
-
-I'm passionate about solving complex algorithmic problems and mastering data structures. Focused on competitive programming with a strong foundation in problem-solving strategies and optimization techniques.
+🎯 **Competitive Programmer**  
+🎓 **Computer Science Student**  
+☕ **Love Java**                                                                                            
+🧠 **Problem Solver** 
+ 
+I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
+**Data Structures, Algorithms, and Competitive Programming**.
 
 ---
 
@@ -10,37 +14,45 @@ I'm passionate about solving complex algorithmic problems and mastering data str
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-**Additional Skills:** Data Structures & Algorithms | Shell Scripting | Machine Learning | Data Visualization | Data Analysis
+### 🛠 Additional Skills
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-purple)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-red)
 
 ---
 
-## 🏆 Competitive Programming Profiles
+## 📊 Competitive Programming Stats
 
-<div align="center">
+<div>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhishekyadav001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhishekyadav_01n/)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhishekyadav001&theme=dark)](https://codeforces.com/profile/abhishekyadav001)
 
 </div>
 
 ---
 
-### 📊 Competitive Programming Stats
+## 📊 LeetCode Stats
 
-<div align="center">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhishekyadav001&theme=dark)](https://codeforces.com/profile/abhishekyadav001)
+<div>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav001)](https://leetcode.com/u/abhishekyadav_01n/)
 
@@ -48,11 +60,11 @@ I'm passionate about solving complex algorithmic problems and mastering data str
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=tokyonight)
+## 📈 GitHub Contribution Summary
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadavabhishek001&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yadavabhishek001&layout=compact&theme=tokyonight)
 
@@ -79,16 +91,13 @@ I'm passionate about solving complex algorithmic problems and mastering data str
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavabhishek001)
+- LinkedIn: https://www.linkedin.com/in/abhishek-yadav-68a855328
+- GitHub: https://github.com/yadavabhishek001
 
 ---
 
 <div align="center">
 
 **Thank you for visiting my profile!** 🚀
-
-Feel free to explore my repositories and don't hesitate to reach out for collaboration.
 
 </div>
