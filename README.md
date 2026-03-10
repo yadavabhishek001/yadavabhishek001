@@ -54,7 +54,7 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 <div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav001)](https://leetcode.com/u/abhishekyadav_01n/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekyadav_01n)](https://leetcode.com/u/abhishekyadav_01n/)
 
 </div>
 
