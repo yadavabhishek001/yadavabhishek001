@@ -40,7 +40,7 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 ---
 
-## 📊 Competitive Programming Stats
+## 📊 Codeforces Stats
 
 <div>
 
