@@ -88,7 +88,6 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abhishek-yadav-68a855328
