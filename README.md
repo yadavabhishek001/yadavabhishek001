@@ -62,12 +62,11 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 ## 📈 GitHub Contribution Summary
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadavabhishek001&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yadavabhishek001\&theme=tokyonight))
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadavabhishek001&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=yadavabhishek001&theme=tokyonight&show_icons=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yadavabhishek001&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yadavabhishek001&layout=compact&theme=tokyonight)
 ---
 
 ## 💻 Problem Solving Focus
